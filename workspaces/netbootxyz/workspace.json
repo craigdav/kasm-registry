@@ -1,0 +1,19 @@
+{
+  "description": "Netbootxyz is a way to PXE boot various operating system installers or utilities from one place within the BIOS without the need of having to go retrieve the media to run the tool.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "name": "linuxserver/netbootxyz:latest",
+  "image_src": "netbootxyz.png",
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "netbootxyz",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 2170
+}
