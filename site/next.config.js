@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'LSIO - croog',
+    description: 'A version of LSIOs KASM Registry.',
+    icon: 'https://craigdav.github.io/kasm-registry/img/logo.svg',
+    listUrl: 'https://craigdav.github.io/kasm-registry/,
+    contactUrl: 'https://craigdav.github.io/kasm-registry/',
   },
   reactStrictMode: true,
   swcMinify: true,
