@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'LSIO - croog',
     description: 'A version of LSIOs KASM Registry.',
     icon: 'https://craigdav.github.io/kasm-registry/img/logo.svg',
-    listUrl: 'https://craigdav.github.io/kasm-registry/,
+    listUrl: 'https://craigdav.github.io/kasm-registry/',
     contactUrl: 'https://craigdav.github.io/kasm-registry/',
   },
   reactStrictMode: true,
